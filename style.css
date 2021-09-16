@@ -20,12 +20,3 @@
     cursor: pointer;
 
 }
-a{
-    color: white;
-    text-decoration: none;
-    cursor: pointer;
-    pointer-events:visible;
-}
-a:hover{
-    color: white;
-}
