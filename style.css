@@ -1,0 +1,31 @@
+.car-bg{
+    background-color: #feeae9;
+}
+.carousel-item{
+    padding: 20px 40px;
+
+}
+
+.price{
+    color: #e11960;
+    
+}
+
+.buy-btn{
+    background-image: linear-gradient(to bottom, #f65894 0%, #ff1671 100% );
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    pointer-events:visible;
+}
+a:hover{
+    color: white;
+}
